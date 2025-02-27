@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Karol
 
 🎮 Game developer passionate about **Unreal Engine**  
-🛠️ Working with **Blueprints**, designing gameplay mechanics
-🎨 Using **Blender** for 3D modeling
-🎬 Editing videos and creating content
+🛠️ Working with **Blueprints**, designing gameplay mechanics  
+🎨 Using **Blender** for 3D modeling  
+🎬 Editing videos and creating content  
 🚀 Always exploring new technologies and improving my skills  
 
 ### 🔧 Technologies & Tools  
