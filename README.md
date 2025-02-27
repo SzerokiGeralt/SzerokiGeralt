@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Karol
 
-<!--
-**SzerokiGeralt/SzerokiGeralt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Game developer passionate about **Unreal Engine**  
+🛠️ Working with **Blueprints**, designing gameplay mechanics  
+🎨 Using **Blender** for 3D modeling
+🎬 Editing videos and creating content
+🚀 Always exploring new technologies and improving my skills  
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools  
+- 🎮 Unreal Engine | Blueprints  
+- 🎨 Blender | GIMP  
+- 🎬 DaVinci Resolve
+- 📌 Git | GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me  
+🔗 www.karol.kapu.pl
+
