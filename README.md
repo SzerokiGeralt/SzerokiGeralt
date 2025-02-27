@@ -10,8 +10,7 @@
 - 🎮 Unreal Engine | Blueprints  
 - 🎨 Blender | GIMP  
 - 🎬 DaVinci Resolve
-- 📌 Git | GitHub  
 
-### 📫 Connect with me  
+### 📫 Contact me  
 🔗 www.karol.kapu.pl
 
